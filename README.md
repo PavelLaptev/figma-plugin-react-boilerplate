@@ -75,11 +75,11 @@ In the project directory, you can run:
 ## ❗ Important
 
 - run `yarn build` or `npm run build` before publishing the plugin to Figma. This will optimize the code and remove unnecessary files.
-- You'll need to restart plugin in Figma in order to see the changes.
-- Do not forget to replace the name and id of the plugin in the `manifest.json` file.
+- You'll need to restart plugin in Figma in order to see the changes during development.
+- Do not forget to replace the name and id of the plugin in the `manifest.json` file before publication.
 
 ---
-
+ 
 ## 📣 Feedback
 
 If you have any feedback, please reach out to me here in issues, or on [Twitter](https://twitter.com/PaveILaptev).
