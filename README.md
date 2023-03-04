@@ -1,4 +1,4 @@
-🎨 Figma React Boilareplate ⚛️
+# 🎨 Figma React Boilareplate ⚛️
 
 ![preview.webp](https://user-images.githubusercontent.com/18498712/222872587-28fb60ea-9282-48f4-8984-3e80a4b1b140.jpeg)
 
