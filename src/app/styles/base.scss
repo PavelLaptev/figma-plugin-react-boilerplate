@@ -1,7 +1,13 @@
 @import "./font-face";
 
 :root {
-  // global variables
+  --input-button-height: 44px;
+  --input-button-radius: 6px;
+
+  --color-primary: #333;
+  --color-secondary: #30775d;
+  --color-white: #fff;
+  --color-background: #f5ffb7;
 }
 
 *,
@@ -19,7 +25,15 @@ body {
   font-size: 12px;
   margin: 0;
 
+  // Hide scrollbar
   &::-webkit-scrollbar {
-    width: 0px;
+    width: 0;
+    height: 0;
+  }
+
+  // Change selection color
+  ::selection {
+    background: var(--color-secondary);
+    color: var(--color-white);
   }
 }
