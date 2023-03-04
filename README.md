@@ -1,10 +1,10 @@
-# Figma React Boilareplate ⚛️ 
+🎨 Figma React Boilareplate ⚛️
 
 ![preview.webp](https://user-images.githubusercontent.com/18498712/222872587-28fb60ea-9282-48f4-8984-3e80a4b1b140.jpeg)
 
-## What is this?
+## ❓ What is this?
 
-This is a boilerplate fro creating a Figma plugin using React and Typescript.
+This is a boilerplate for creating a Figma plugin using React and Typescript.
 
 ---
 
@@ -43,22 +43,25 @@ This is where the Figma controller is located. It is a Typescript file that is u
 
 ---
 
-## How to use
+## 🛠️ How to use
 
 1. Clone this repo
 2. Run `yarn` or `npm install`
+3. Run `yarn dev` or `npm run dev`
+4. Go to Figma and add a new plugin (Plugins -> Development -> Import plugin from manifest…)
+5. Run the plugin
 
 ---
    
-## How to run
+## ⚙️ How to run
 
 In the project directory, you can run:
 - `yarn dev` or `npm run dev` to run the app in the development mode.
 - `yarn build` or `npm run build` to build the app for production to the `build` folder.
 
---
+---
 
-## Notes
+## ❗ Important
 
 - run `yarn build` or `npm run build` before publishing the plugin to Figma. This will optimize the code and remove unnecessary files.
 - You'll need to restart plugin in Figma in order to see the changes.
@@ -66,6 +69,6 @@ In the project directory, you can run:
 
 ---
 
-## Feedback
+## 📣 Feedback
 
 If you have any feedback, please reach out to me here in issues, or on [Twitter](https://twitter.com/PaveILaptev).
