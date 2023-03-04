@@ -15,6 +15,8 @@ This is a boilerplate for creating a Figma plugin using React and Typescript.
 - Typescript
 - Import SVG images
 
+---
+
 ## Structure
 
 ```
