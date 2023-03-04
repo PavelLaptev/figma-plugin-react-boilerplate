@@ -39,6 +39,8 @@ This is a boilerplate for creating a Figma plugin using React and Typescript.
 ├── manifest.json
 ├── .prettierrc.yml
 ├── declaration.d.ts
+├── tsconfig.json
+├── webpack.config.js
 ```
 
 ### src/app
