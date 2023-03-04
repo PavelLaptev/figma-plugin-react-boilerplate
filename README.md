@@ -1,6 +1,6 @@
-# 🎨 Figma React Boilareplate ⚛️
+# 🎨 React Boilerplate for Figma plugins ⚛️
 
-![preview.webp](https://user-images.githubusercontent.com/18498712/222872587-28fb60ea-9282-48f4-8984-3e80a4b1b140.jpeg)
+![preview](https://user-images.githubusercontent.com/18498712/222872587-28fb60ea-9282-48f4-8984-3e80a4b1b140.jpeg)
 
 ## ❓ What is this?
 
