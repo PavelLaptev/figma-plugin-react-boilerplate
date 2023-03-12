@@ -17,9 +17,9 @@ This is a boilerplate for creating a Figma plugin using React and Typescript.
 
 ---
 
-## 📦 Packages version
+## 📦 Latest packages versions
 
-- `@figma/plugin-typings`: 1.58.0
+- `@figma/plugin-typings`: 1.61.0
 - `react`: 18.2.0
 
 ---
