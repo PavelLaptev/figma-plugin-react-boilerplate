@@ -15,9 +15,9 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@figma/plugin-typings": "^1.61.0",
-    "@types/react": "^18.0.17",
-    "@types/react-dom": "^18.0.6",
+    "@figma/plugin-typings": "^1.62.0",
+    "@types/react": "^18.0.33",
+    "@types/react-dom": "^18.0.11",
     "css-loader": "^6.7.1",
     "html-inline-css-webpack-plugin": "^1.11.1",
     "html-webpack-plugin": "^5.5.0",

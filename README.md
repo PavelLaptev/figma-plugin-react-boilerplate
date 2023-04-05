@@ -19,7 +19,7 @@ This is a boilerplate for creating a Figma plugin using React and Typescript.
 
 ## 📦 Latest packages versions
 
-- `@figma/plugin-typings`: 1.61.0
+- `@figma/plugin-typings`: 1.62.0
 - `react`: 18.2.0
 
 ---
@@ -32,7 +32,7 @@ This is a boilerplate for creating a Figma plugin using React and Typescript.
 │   │   ├── assets
 │   │   ├── components
 │   │   ├── styles
-│   ├── figma-controller
+│   ├── controller
 │   ├── App.tsx
 │   ├── index.tsx
 │   ├── index.html
@@ -47,7 +47,7 @@ This is a boilerplate for creating a Figma plugin using React and Typescript.
 
 This is where the main app is located. It is a React app that is rendered inside the Figma plugin.
 
-### src/figma-controller
+### src/controller
 
 This is where the Figma controller is located. It is a Typescript file that is used to communicate with the Figma API.
 
